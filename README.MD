@@ -1,4 +1,4 @@
-# Bengaluru House Price Prediction
+# Bengaluru House Price Predictor
 
 An end-to-end machine learning project that predicts house prices in Bengaluru using regression models, feature engineering, and a Flask web application.
 
